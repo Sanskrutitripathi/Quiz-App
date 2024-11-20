@@ -1,7 +1,7 @@
 # Quiz Application
 
 ## Overview
-A Java-based Quiz Application that allows users to take quizzes in various subjects (General Knowledge, Science, Mathematics), track scores, and store them in a MySQL database. This project demonstrates file handling, JDBC integration, and database management.
+A Java-based Quiz Application leveraging MySQL database connectivity to manage quiz scores for different subjects (General Knowledge, Science, and Mathematics). The system allows users to participate in quizzes, track their scores, and update records in the database. Designed to enhance understanding of file handling and JDBC.
 
 ---
 
