@@ -1,0 +1,20 @@
+Question: What is capital of india?
+Options: a. Gujarat, b. Tamil Nadu, c. Delhi 
+Answer: c
+
+Question: What is capital of Gujarat?
+Options: a. gandhinagar, b. bhavnagar, c. surat
+Answer: a
+
+Question: Who is the author of the novel “1984”? 
+Options: a. J.K. Rowling, b. George Orwell, c. Jane Austen
+Answer: b. George Orwell
+
+Question: What is the capital of Australia? 
+Options: a. Sydney, b. Melbourne, c. Canberra
+Answer: c. Canberra
+
+Question: Who painted the Mona Lisa? 
+Options: a. Vincent Van Gogh, b. Pablo Picasso, c. Leonardo da Vinci
+Answer: c. Leonardo da Vinci
+

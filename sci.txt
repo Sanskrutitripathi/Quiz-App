@@ -1,0 +1,19 @@
+Question: what is h20?
+Options: a. water, b. soda, c. acid
+Answer: a
+
+Question: What is the chemical symbol for the element Oxygen? 
+Options: a. O, b. Ox, c. Og, d. On 
+Answer: a. O
+
+Question: Who proposed the theory of relativity? 
+Options: a. Isaac Newton, b. Albert Einstein, c. Nikola Tesla
+Answer: b. Albert Einstein
+
+Question: What is the powerhouse of the cell? 
+Options: a. Nucleus, b. Ribosome, c. Mitochondria 
+Answer: c. Mitochondria
+
+Question: What is the most abundant gas in the Earth’s atmosphere? 
+Options: a. Oxygen, b. Carbon Dioxide, c. Nitrogen
+Answer: c. Nitrogen

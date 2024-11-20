@@ -1,0 +1,19 @@
+Question: 2+3?
+Options: a. 4, b. 5, c. 6
+Answer: b
+
+Question: 7+3?
+Options: a. 5, b. 4, c. 10
+Answer: c
+
+Question: What is 9 - 2?
+Options: a. 5, b. 7, c. 6 
+Answer: b. 7
+
+Question: What is 10*2?
+Options: a. 20, b. 17, c. 12 
+Answer: a. 20
+
+Question: What is 16*3?
+Options: a. 20, b. 19, c. 48 
+Answer: c. 48
