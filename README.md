@@ -18,12 +18,7 @@ A Java-based Quiz Application leveraging MySQL database connectivity to manage q
 - **XAMPP**: For running MySQL and managing the database.
 - **MySQL Connector/J**: Required for JDBC connectivity.
 - **Text Files**: 
-  - `gk.txt`, `sci.txt`, `maths.txt` must be in the program's directory and formatted as follows:
-    ```
-    Question: What is the capital of France?
-    Options: a) Berlin, b) Madrid, c) Paris, d) Rome
-    Answer: c
-    ```
+  - `gk.txt`, `sci.txt`, `maths.txt` 
 
 ---
 
